@@ -1,24 +1,20 @@
-# README
+# 📕MATCH APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+マッチングアプリです
+下記のページに公開中
+[ails-match-app.herokuapp.com](https://rails-match-app.herokuapp.com/)
 
-Things you may want to cover:
+テスト用アカウント
 
-* Ruby version
+男性：
+　E-メール: koki@gmailcom
+　パスワード： koki11
 
-* System dependencies
+女性：
+　E-メール: manami@gmailcom
+　パスワード： manamii11
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 📕アプリケーション概要
+男女がお互いに気になる人をいいねすることができる。お互いにマッチングした人のみがチャットをすることができるアプリです。
+・直感的に操作ができる
+・気になった特定の人物だけと会話することができる
